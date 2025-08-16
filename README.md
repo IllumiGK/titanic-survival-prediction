@@ -1,4 +1,4 @@
-Titanic Survival Prediction
+# Titanic Survival Prediction
 Overview
 
 This project predicts passenger survival on the Titanic using Python. It demonstrates a complete data science workflow, including data cleaning, exploratory data analysis (EDA), feature engineering, and machine learning with HistGradientBoostingClassifier.
